@@ -1,4 +1,4 @@
-package prenotazionePostiAule;
+package prenotazioneAule;
 
 public class Main {
 
