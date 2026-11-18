@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbactions.xml
+nb-configuration.xml
+nbproject/
+
+# File di sistema
+.DS_Store
+Thumbs.db
